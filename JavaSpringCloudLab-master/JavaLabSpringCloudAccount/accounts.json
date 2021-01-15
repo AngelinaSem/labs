@@ -1,0 +1,41 @@
+[{
+    "name": "Иванов",
+    "id": 0,
+    "code": 1234,
+    "subscriptions": []
+}, {
+    "name": "Петров",
+    "id": 1,
+    "code": 4321,
+    "subscriptions": []
+}, {
+    "name": "Сидоров",
+    "id": 2,
+    "code": 5678,
+    "subscriptions": []
+}, {
+    "name": "Кузнецова",
+    "id": 3,
+    "code": 8765,
+    "subscriptions": []
+}, {
+    "name": "Миронова",
+    "id": 4,
+    "code": 9012,
+    "subscriptions": []
+}, {
+    "name": "Ткаченко",
+    "id": 5,
+    "code": 1209,
+    "subscriptions": []
+}, {
+    "name": "Поляков",
+    "id": 6,
+    "code": 9832,
+    "subscriptions": []
+}, {
+    "name": "Шведов",
+    "id": 7,
+    "code": 2389,
+    "subscriptions": []
+}]
